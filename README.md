@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Sobit Karki. I am a Software Developer. 
-# Fields of Expertise and Interest
+### Fields of Expertise and Interest
 - Linux 
 - Deep Learning
 - Blockchain
