@@ -1,4 +1,11 @@
 ## Hi there 👋
+My name is Sobit Karki. I am a Software Developer. 
+# Fields of Expertise and Interest
+- Linux 
+- Deep Learning
+- Blockchain
+- Embedded Systems
+
 
 <!--
 **sobitkarki1/sobitkarki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
